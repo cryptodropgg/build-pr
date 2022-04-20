@@ -8,7 +8,7 @@
     "static/js/5.217f6b35.chunk.js": "./static/js/5.217f6b35.chunk.js",
     "static/js/6.b5fc9493.chunk.js": "./static/js/6.b5fc9493.chunk.js",
     "main.js": "./static/js/main.5ee29c58.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.7e02e66b.js",
+    "runtime-main.js": "./static/js/runtime-main.a715a976.js",
     "static/css/9.8154fbb8.chunk.css": "./static/css/9.8154fbb8.chunk.css",
     "static/js/9.173f462a.chunk.js": "./static/js/9.173f462a.chunk.js",
     "static/js/10.1119369e.chunk.js": "./static/js/10.1119369e.chunk.js",
@@ -31,7 +31,7 @@
     "static/js/23.2f9ee871.chunk.js": "./static/js/23.2f9ee871.chunk.js",
     "static/js/24.8abc8b07.chunk.js": "./static/js/24.8abc8b07.chunk.js",
     "static/js/25.6bb1caea.chunk.js": "./static/js/25.6bb1caea.chunk.js",
-    "static/js/26.dfe7e681.chunk.js": "./static/js/26.dfe7e681.chunk.js",
+    "static/js/26.e708c4d2.chunk.js": "./static/js/26.e708c4d2.chunk.js",
     "static/js/27.315a9fc8.chunk.js": "./static/js/27.315a9fc8.chunk.js",
     "static/js/28.deb83016.chunk.js": "./static/js/28.deb83016.chunk.js",
     "static/js/29.c6e021c4.chunk.js": "./static/js/29.c6e021c4.chunk.js",
@@ -89,7 +89,7 @@
     "static/media/winningSlot3.499c3d94.mp3": "./static/media/winningSlot3.499c3d94.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e02e66b.js",
+    "static/js/runtime-main.a715a976.js",
     "static/css/9.8154fbb8.chunk.css",
     "static/js/9.173f462a.chunk.js",
     "static/js/main.5ee29c58.chunk.js"
